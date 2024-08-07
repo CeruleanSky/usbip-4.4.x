@@ -26,8 +26,8 @@
 #endif
 
 /* kernel module names */
-#define USBIP_CORE_MOD_NAME	"usbip"
-#define USBIP_HOST_DRV_NAME	"usbip-host"
+#define USBIP_CORE_MOD_NAME	"usbip-core"
+#define USBIP_HOST_DRV_NAME	"usbip"
 #define USBIP_VHCI_DRV_NAME	"vhci_hcd"
 
 /* sysfs constants */
